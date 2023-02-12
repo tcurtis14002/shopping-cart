@@ -92,3 +92,7 @@ button.badge {
 .p-1 {
   width: 1.5rem;
 }
+
+.text-right {
+  text-align: right;
+}
