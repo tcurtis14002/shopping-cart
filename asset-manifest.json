@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tcurtis14002/shopping-cart/static/css/main.4dd328cf.css",
+    "main.js": "/tcurtis14002/shopping-cart/static/js/main.8ed73316.js",
+    "static/js/787.d6fe38e8.chunk.js": "/tcurtis14002/shopping-cart/static/js/787.d6fe38e8.chunk.js",
+    "index.html": "/tcurtis14002/shopping-cart/index.html",
+    "main.4dd328cf.css.map": "/tcurtis14002/shopping-cart/static/css/main.4dd328cf.css.map",
+    "main.8ed73316.js.map": "/tcurtis14002/shopping-cart/static/js/main.8ed73316.js.map",
+    "787.d6fe38e8.chunk.js.map": "/tcurtis14002/shopping-cart/static/js/787.d6fe38e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dd328cf.css",
+    "static/js/main.8ed73316.js"
+  ]
+}
